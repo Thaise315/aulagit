@@ -1,2 +1,3 @@
 let nome = 'Thaise'
-console.log(nome)
+let sobrenome = 'Neri'
+console.log(nome, sobrenome)
